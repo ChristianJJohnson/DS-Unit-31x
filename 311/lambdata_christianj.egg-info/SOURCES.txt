@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+lambdata_christianj/__init__.py
+lambdata_christianj/my_mod.py
+lambdata_christianj/my_script.py
+lambdata_christianj.egg-info/PKG-INFO
+lambdata_christianj.egg-info/SOURCES.txt
+lambdata_christianj.egg-info/dependency_links.txt
+lambdata_christianj.egg-info/top_level.txt
