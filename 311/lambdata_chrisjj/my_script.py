@@ -12,5 +12,5 @@ add_column(df, newlist, 'z')
 print(f'After adding column:\n{df.head()}')
 
 
-userin = input('Enter State name to convert to its abbreviation: ')
-print(state_abbr(userin))
+userInput = input('Enter State name to convert to its abbreviation: ')
+print(state_abbr(userInput))
